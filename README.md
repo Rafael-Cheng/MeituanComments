@@ -9,5 +9,7 @@ In addition, by applying 'jieba', all the comments are separated to words, and t
 ![](https://github.com/Rafael-Cheng/MeituanCommentsCrawler/blob/master/frequency.png)
 
 ### libraries used:
+
 requests: https://github.com/kennethreitz/requests
+
 jieba: https://github.com/fxsjy/jieba
