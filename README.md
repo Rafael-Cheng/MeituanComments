@@ -6,4 +6,4 @@ MeituanComments Crawler is a web crawler which collects user comments data of Tr
 
 In addition, by applying 'jieba', all the comments are separated to words, and the frequency of some main words are as follows:
 
-![](https://github.com/Rafael-Cheng/MeituanCommentsCrawler/blob/master/resource/frequency.png?raw=true)
+![](https://github.com/Rafael-Cheng/MeituanCommentsCrawler/blob/master/frequency.png)
